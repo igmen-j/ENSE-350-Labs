@@ -1,0 +1,6 @@
+﻿  350Lab5.cpp
+C:\Users\igmen\Desktop\ENSE 350\Labs\350Lab5\350Lab5.cpp(23,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\igmen\Desktop\ENSE 350\Labs\350Lab5\350Lab5.cpp(28,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\igmen\Desktop\ENSE 350\Labs\350Lab5\350Lab5.cpp(30,64): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\igmen\Desktop\ENSE 350\Labs\350Lab5\350Lab5.cpp(32,16): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  350Lab5.vcxproj -> C:\Users\igmen\Desktop\ENSE 350\Labs\350Lab5\Debug\350Lab5.exe
